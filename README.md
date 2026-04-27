@@ -1,7 +1,7 @@
 # CS 250 Agile Sprint Review and Retrospective
 
 ## Artifact
-This repository contains my Sprint Review and Retrospective for the SNHU Travel project. The project focused on applying Scrum-Agile practices such as user stories, sprint planning, testing, and retrospectives in a changing development environment.
+This repository houses the Sprint Review and Retrospective document for the SNHU Travel project. The SNHU Travel project was centered around implementing Agile methodologies like user stories, sprint planning, testing, and retrospection within an evolving software development landscape.
 
 ---
 
@@ -9,16 +9,16 @@ This repository contains my Sprint Review and Retrospective for the SNHU Travel 
 
 ### How do I interpret user needs and implement them into a program? How do user stories help?
 
-I interpret user needs by focusing on the problem the user is trying to solve rather than jumping directly to a solution. User stories help by framing requirements in terms of user value (what the user wants and why). This keeps development aligned with real needs instead of technical assumptions.
+My interpretation of the user's need is done in a way where I look at the problem being solved by the user first before coming up with a solution. User stories can be useful because they put the requirement into context by addressing the user's need.
 
 ---
 
 ### How do I approach developing programs? What Agile processes will I use?
 
-I approach development by breaking problems into smaller pieces and building incrementally. Agile processes I would use include user stories, sprint planning, daily standups, and retrospectives. These practices help track progress, adapt to change, and continuously improve.
+The way in which I develop is through the breakdown of large tasks and then the continuous building of said tasks broken down. Agile practices that I employ are user stories, sprint planning, stand-ups, and reviews.
 
 ---
 
 ### What does it mean to be a good team member in software development?
 
-Being a good team member means communicating clearly, sharing progress and blockers, and staying aligned with team goals. It also means being open to feedback and adapting when requirements change instead of resisting it.
+Being an effective team member requires clear communication, keeping the team updated on my status and obstacles, and working towards team objectives. Being an effective team member also requires accepting feedback and adjusting accordingly to any new requirements.
